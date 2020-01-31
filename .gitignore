@@ -1,0 +1,14 @@
+*.pyc
+*.swp
+*.swo
+*.h5
+*.state
+*.mat
+*.sh
+*.pdf
+data/*
+!data/download.sh
+*/output/*
+sftp-config.json
+local/
+draw/

@@ -1,0 +1,6 @@
+[submodule "baselines/iwae"]
+	path = baselines/iwae
+	url = https://github.com/yburda/iwae.git
+[submodule "baselines/reweighted-ws"]
+	path = baselines/reweighted-ws
+	url = https://github.com/jbornschein/reweighted-ws.git
